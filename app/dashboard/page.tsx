@@ -316,10 +316,6 @@ export default function Dashboard() {
                     }}
                     className="bg-emerald-50 text-[#00a884] text-[11px] font-bold px-2.5 py-0.5 rounded-full transition cursor-pointer"
                   >
-                    ● {subscriptionDays} days left (Renew)
-                  </button>
-                </div>
-                <p className="text-xs text-gray-400 font-medium mt-0.5">Mobile Inventory &amp; Accounting ERP</p>
               </div>
             </div>
 
